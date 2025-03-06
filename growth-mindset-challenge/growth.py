@@ -16,7 +16,7 @@ if page == "Home":
     Use the sidebar to explore different sections.
     """)
     # Display the image
-    image = Image.open(r"F:\growth mindset challenge\image1.jpg")
+    image = Image.open(r"F:\growth-mindset-challenge\image1.jpg")
     st.image(image, caption="Embrace Growth!", use_container_width=True)
     
 # Placeholder for other pages
